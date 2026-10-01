@@ -11,3 +11,7 @@ brew install --cask zairuilab/tap/duestatus-bar
 
 The application source repository is maintained separately. This repository
 contains only the Homebrew Cask and signed release artifacts.
+
+The Cask metadata in this tap is MIT-licensed. DueStatus Bar itself retains its
+Apache-2.0 license, upstream attribution, and modification notice inside the app
+bundle.
